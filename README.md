@@ -26,7 +26,7 @@
 ```
 
 ```text
-C:\User\pedro.ramos> ls .\sobre-mim\
+C:\Users\pedro.ramos> ls .\sobre-mim\
 Desenvolvo backend em Java e TypeScript.
 Hoje construo ferramentas com IA usando Claude Code e Jev.
 ```
@@ -37,12 +37,12 @@ Hoje construo ferramentas com IA usando Claude Code e Jev.
 </div>
 
 ```text
-C:\User\pedro.ramos> ls .\projetos\
-SEM SINAL PÚBLICO · PRIMEIROS DEPLOYS ESTA SEMANA
+C:\Users\pedro.ramos> ls .\projetos\
+CHOOSE-MCP // SERVIDOR MCP · TYPESCRIPT
 ```
 
 ```text
-C:\User\pedro.ramos> ls .\contato\
+C:\Users\pedro.ramos> ls .\contato\
 ```
 
 <a href="https://www.linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LINKEDIN-62F08A?style=flat-square&labelColor=0B0A09&logo=linkedin&logoColor=0B0A09" alt="LINKEDIN" /></a>
