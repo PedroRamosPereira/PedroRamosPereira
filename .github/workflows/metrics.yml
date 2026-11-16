@@ -21,10 +21,9 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.svg
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_timezone: America/Sao_Paulo
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
