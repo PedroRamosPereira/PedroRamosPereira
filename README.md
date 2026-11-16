@@ -45,5 +45,5 @@ CHOOSE-MCP // SERVIDOR MCP · TYPESCRIPT
 C:\Users\pedro.ramos> ls .\contato\
 ```
 
-<a href="https://www.linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LINKEDIN-62F08A?style=flat-square&labelColor=0B0A09&logo=linkedin&logoColor=0B0A09" alt="LINKEDIN" /></a>
+<a href="https://www.linkedin.com/in/pedroramospereira"><img src="https://img.shields.io/badge/LINKEDIN-62F08A?style=flat-square&labelColor=0B0A09&logo=linkedin&logoColor=0B0A09" alt="LINKEDIN" /></a>
 <a href="mailto:pramospereira1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1D1A17?style=flat-square&labelColor=0B0A09&logo=gmail&logoColor=ECE5D6" alt="EMAIL" /></a>
