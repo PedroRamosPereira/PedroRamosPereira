@@ -32,7 +32,7 @@ Hoje construo ferramentas com IA usando Claude Code e Jev.
 ```
 
 <div align="center">
-  <img src="./metrics.plugin.habits.svg" alt="HÁBITOS" />
+  <img src="./metrics.plugin.isocalendar.svg" alt="CONTRIBUIÇÕES" />
   <img src="./metrics.plugin.languages.svg" alt="LINGUAGENS" />
 </div>
 
